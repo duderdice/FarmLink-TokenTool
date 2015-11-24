@@ -1,0 +1,6 @@
+C:\GitHub\IdentityServer3.Samples\source\Clients\JavaScriptImplicitClient\bin\JavaScriptImplicitClient.dll.config
+C:\GitHub\IdentityServer3.Samples\source\Clients\JavaScriptImplicitClient\bin\JavaScriptImplicitClient.dll
+C:\GitHub\IdentityServer3.Samples\source\Clients\JavaScriptImplicitClient\bin\JavaScriptImplicitClient.pdb
+C:\GitHub\IdentityServer3.Samples\source\Clients\JavaScriptImplicitClient\obj\Debug\JavaScript Implicit Client - TokenManager.csprojResolveAssemblyReference.cache
+C:\GitHub\IdentityServer3.Samples\source\Clients\JavaScriptImplicitClient\obj\Debug\JavaScriptImplicitClient.dll
+C:\GitHub\IdentityServer3.Samples\source\Clients\JavaScriptImplicitClient\obj\Debug\JavaScriptImplicitClient.pdb
